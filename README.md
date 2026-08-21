@@ -3,9 +3,9 @@
 <!-- ANIMATED HEADER WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24,30&height=230&section=header&text=Hemanth%20Bandi&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20GRC%20Specialist&descAlignY=58&descSize=19" width="100%"/>
 
-<!-- DYNAMIC MULTI-LINE TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=🛡️+CEH+v12+Certified+%7C+CCNA+%7C+Google+Cloud+Cybersecurity;⚡+SOC+Analyst+%7C+SIEM+Correlation+%26+Real-Time+Threat+Hunting;📊+Data+Analyst+%7C+ETL+Pipelines%2C+Power+BI+%26+ML+Modeling;📋+GRC+Specialist+%7C+ISO+27001%3A2022%2C+NIST+CSF+%26+Risk+Auditing;🚀+Building+Intelligent+Security+Tooling+%26+Data+Systems" alt="Typing SVG" />
+<!-- FIXED DYNAMIC TYPING ANIMATION -->
+<a href="https://github.com/bhemanth1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=CEH+v12+Certified+%7C+CCNA+%7C+Google+Cloud+Cybersecurity;SOC+Analyst+%7C+SIEM+Correlation+%26+Real-Time+Threat+Hunting;Data+Analyst+%7C+ETL+Pipelines%2C+Power+BI+%26+ML+Modeling;GRC+Specialist+%7C+ISO+27001%3A2022%2C+NIST+CSF+%26+Risk+Auditing;Building+Intelligent+Security+Tooling+%26+Data+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-```yaml
+
 identity: Hemanth Bandi
 education: B.Tech Computer Science (Blockchain, IoT & Cyber Security) @ Woxsen University (2022–2026)
 location: Hyderabad, India
@@ -34,7 +34,6 @@ core_domains:
   - 📊 Data Analytics & BI: Automated ETL Pipelines, Power BI Dashboards, Exploratory Data Analysis
 research: Co-author, "AI-Based Fake OTP Detection Framework" (SciTech-25)
 motto: "Failures are just restart points on the road to mastery."
-```
 
 ---
 
