@@ -82,15 +82,16 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Security Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhemanth1&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhemanth1&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhemanth1&theme=radical&hide_border=true" width="97%" />
+  <!-- GitHub Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bhemanth1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+  
+  <br/><br/>
+  
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhemanth1&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Commit%20Frequency" width="100%" alt="Activity Graph" />
 </div>
 
 ---
