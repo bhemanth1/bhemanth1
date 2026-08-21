@@ -119,22 +119,21 @@ Cybersecurity engineer and analyst with hands-on experience in **security operat
 
 ---
 
-### 📊 GitHub Activity & Real-Time Metrics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Dynamic Activity Frequency Area Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhemanth1&theme=tokyo-night&area=true&hide_border=true&custom_title=Commit%20%26%20Contribution%20Frequency" width="100%" alt="Hemanth's GitHub Activity Graph" />
-  
-  <br/><br/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=bhemanth1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhemanth1&layout=compact&theme=tokyonight&hide_border=true" width="370" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- Stats Card + Language Breakdown -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bhemanth1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhemanth1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <!-- Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhemanth1&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhemanth1&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
 
 ---
